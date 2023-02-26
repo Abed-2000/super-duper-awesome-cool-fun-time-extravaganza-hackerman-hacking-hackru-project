@@ -318,14 +318,14 @@
     {"tag":"easter_egg6",
     "patterns":["What's up?", "whats up"],
     "responses":["The sky."]
-    }
+    },
     {"tag":"easter_egg7",
     "patterns":["How much wood would a woodchuck chuck? How much wood would a woodchuck chuck, if a woodchuck could chuck wood?"],
     "responses":["At least one"]
     },
     {"tag":"easter_egg8",
     "patterns":["Do you love me?"],
-    "responses":["You should be asking yourself that question",]
+    "responses":["You should be asking yourself that question"]
     }
  ]
 }
