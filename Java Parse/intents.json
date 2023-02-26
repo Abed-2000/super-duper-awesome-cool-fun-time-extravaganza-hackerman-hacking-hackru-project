@@ -309,23 +309,23 @@
     },
     {"tag":"easter_egg4",
     "patterns":["Hi", "hey", "hello", "howdy"],
-    "responses":["Hey there; how are you?"]
+    "responses":["Hey there, how are you?"]
     },
     {"tag":"easter_egg5",
     "patterns":["Good", "bad", "terrific", "terrible", "I'm doing", "I am"],
-    "responses":["I'm happy you could share that with me"]
+    "responses":["I'm happy you could share that with me."]
     },      
     {"tag":"easter_egg6",
     "patterns":["What's up?", "whats up"],
     "responses":["The sky."]
     },
     {"tag":"easter_egg7",
-    "patterns":["How much wood would a woodchuck chuck? How much wood would a woodchuck chuck, if a woodchuck could chuck wood?"],
+    "patterns":["How much wood would a woodchuck chuck?","How much wood would a woodchuck chuck, if a woodchuck could chuck wood?"],
     "responses":["At least one"]
     },
     {"tag":"easter_egg8",
     "patterns":["Do you love me?"],
-    "responses":["You should be asking yourself that question"]
+    "responses":["You should be asking yourself that question..."]
     }
  ]
 }
